@@ -27,11 +27,11 @@ To run these notebooks on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Magudeshhmw/Machine-Learning
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd <repository-name>
+    cd Machine-Learning
     ```
 3.  **Install the required libraries.** You will need libraries such as `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, and `tensorflow`. You can install them using pip:
     ```bash
